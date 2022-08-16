@@ -1,0 +1,23 @@
+{
+  "sign.in.phone.required":"Số điện thoại không được để trống",
+  "sign.in.phone.enter":"Nhập SĐT của bạn",
+  "sign.in.phone.title":"Nhập số điện thoại để đăng nhập tài khoản ShopDunk của bạn",
+  "invalid_phone":"Số điện thoại bạn vừa nhập không đúng, vui lòng nhập lại",
+  "sign.in.no.account":"Bạn chưa có tài khoản?",
+  "sign.in.signup":"Đăng ký",
+  "sign.in.send.again":"Gửi lại",
+  "sign_in_phone_otp":"Nhập mã OTP được gửi vào số ĐT",
+  "sign_up_title":"Vui lòng nhập thông tin để đăng ký tài khoản ShopDunk",
+  "phone":"Điện thoại",
+  "name":"Họ và tên",
+  "gender":"Giới tính",
+  "male":"Nam",
+  "female":"Nữ",
+  "gender_3":"Khác",
+  "enter_phone":"Nhập họ, tên của bạn",
+  "please_enter":"Vui lòng chọn",
+  "signup_footer":"Bằng việc tiếp tục, bạn đã đồng ý với Điều khoản & Điều kiện cùng Chính sách bảo mật và chia sẻ thông tin của ShopDunk",
+  "rules":"Điều khoản & Điều kiện",
+  "security":"Chính sách bảo mật và chia sẻ thông tin "
+
+}
